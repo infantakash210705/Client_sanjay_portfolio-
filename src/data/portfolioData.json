@@ -1,0 +1,84 @@
+{
+  "candidate": {
+    "name": "Sanjay S",
+    "role": "Full Stack Developer | AI Developer | Cybersecurity Enthusiast",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "email": "sakthivelsanjay5@gmail.com",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "education": {
+      "degree": "B.Tech Information Technology",
+      "institution": "Rathinam Technical Campus, Coimbatore",
+      "duration": "2023 – 2027",
+      "cgpa": "8.4/10"
+    }
+  },
+  "skills": [
+    {"name": "Java & Spring Boot", "category": "Backend", "level": 90},
+    {"name": "Python & ML", "category": "AI/ML", "level": 80},
+    {"name": "PostgreSQL", "category": "Database", "level": 85},
+    {"name": "Wazuh SIEM", "category": "Security", "level": 75},
+    {"name": "HTML/CSS/JavaScript", "category": "Frontend", "level": 85},
+    {"name": "Cryptographic Systems", "category": "Security", "level": 80},
+    {"name": "REST APIs", "category": "Backend", "level": 90}
+  ],
+  "projects": [
+    {
+      "id": "ai-tracker",
+      "title": "AI-Based Time Tracking System",
+      "tagline": "Flagship Project: Full Stack + Offline AI Analytics Engine",
+      "category": "AI + Full Stack",
+      "status": "Completed",
+      "highlights": [
+        "Built architectural stack using Java Spring Boot handling local multithreaded runtime processing metrics.",
+        "Integrated lightweight offline AI core running inference loops without external network requirements.",
+        "Maintained persistent transactional integrity via PostgreSQL local data engines for total data security."
+      ],
+      "tech": ["Java", "Spring Boot", "Python", "PostgreSQL", "Machine Learning", "REST APIs"],
+      "metrics": {"Performance Increase": "+42%", "Data Privacy Protection": "100%", "Network Latency": "0ms"}
+    },
+    {
+      "id": "secure-encrypt",
+      "title": "Secure Encryption Ecosystem",
+      "tagline": "Cryptographic Data Architecture Protection Layer",
+      "category": "Cybersecurity",
+      "status": "Completed",
+      "highlights": [
+        "Architected localized data protection algorithms guarding sensitive strings from local intrusion vectors.",
+        "Implemented high-entropy key derivation practices ensuring systemic resistance against memory injection."
+      ],
+      "tech": ["Python", "Cryptography", "Secure Storage", "Algorithms"],
+      "metrics": {"Cracking Resistance": "Military Grade", "Encryption Speed": "<12ms"}
+    },
+    {
+      "id": "wazuh-siem",
+      "title": "Enterprise Threat Monitoring Hub",
+      "tagline": "Active Cloud-Scale Threat Hunting Ecosystem",
+      "category": "Cybersecurity Infrastructure",
+      "status": "In Progress",
+      "highlights": [
+        "Configuring localized endpoints into a comprehensive Wazuh central collection pipeline framework.",
+        "Writing behavioral alert profiles detecting anomalous process invocations and privilege adjustments."
+      ],
+      "tech": ["Wazuh", "SIEM Engine", "Threat Intelligence", "Log Parsing"],
+      "metrics": {"Threat Detection Index": "Real-time", "Alert Accuracy": "99.4%"}
+    }
+  ],
+  "experience": [
+    {
+      "role": "Cybersecurity Intern",
+      "company": "TechnoHack Solutions",
+      "duration": "Remote Engagement",
+      "bullets": [
+        "Evaluated architectural attack surfaces and built continuous security logging blueprints.",
+        "Synthesized offensive validation procedures including vulnerable script identification mechanisms.",
+        "Hardened distributed network communication patterns following strict least-privilege paradigms."
+      ]
+    }
+  ],
+  "achievements": [
+    "Developed multiple enterprise-grade cybersecurity applications including defensive vulnerability analysis tools.",
+    "Engineered robust authorization gateways featuring cryptographic password hashing configurations.",
+    "Pioneered high-velocity local multi-threaded offline AI ingestion framework for productivity evaluation."
+  ]
+}
